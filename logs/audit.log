@@ -1,0 +1,5 @@
+{"action":"enabled","groupId":"120363398619601959@g.us","level":"info","message":"AUDIT","timestamp":1748154232056,"userId":"918810502592@s.whatsapp.net"}
+{"action":"ALL_PLUGINS_RELOADED","disabledCount":0,"enabledCount":62,"level":"info","message":"AUDIT","newCount":62,"previousCount":62,"reloadTimeMs":180,"timestamp":"2025-05-25T06:25:44.324Z","userId":"918810502592@s.whatsapp.net"}
+{"action":"PLUGIN_DISABLE","level":"info","message":"AUDIT","pluginName":"ban","timestamp":"2025-05-25T06:27:06.458Z","userId":"918810502592@s.whatsapp.net"}
+{"action":"PLUGIN_DISABLE","level":"info","message":"AUDIT","pluginName":"unban","timestamp":"2025-05-25T06:27:44.185Z","userId":"918810502592@s.whatsapp.net"}
+{"action":"USER_REPORTED","adminCount":2,"groupId":"120363398619601959@g.us","groupName":"Vryzen","level":"info","message":"AUDIT","reason":"abusing his power","reportedUser":"918920659106@s.whatsapp.net","timestamp":"2025-05-25T06:39:06.383Z","userId":"918810502592@s.whatsapp.net"}

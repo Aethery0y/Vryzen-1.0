@@ -1,0 +1,538 @@
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: ban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: unban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Loaded 56 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:06:39"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-25 06:07:02"}
+{"level":"info","message":"New plugin file detected: test.js","service":"vryzen-bot","timestamp":"2025-05-25 06:11:53"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:11:53"}
+{"command":"test","executionTime":470,"level":"info","message":"Command executed: test","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:12:13","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: ping.js","service":"vryzen-bot","timestamp":"2025-05-25 06:12:31"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:12:31"}
+{"level":"info","message":"Plugin file changed: kick.js","service":"vryzen-bot","timestamp":"2025-05-25 06:12:35"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:12:35"}
+{"level":"info","message":"New plugin file detected: weather.js","service":"vryzen-bot","timestamp":"2025-05-25 06:12:43"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:12:43"}
+{"level":"info","message":"New plugin file detected: translate.js","service":"vryzen-bot","timestamp":"2025-05-25 06:12:53"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:12:53"}
+{"level":"info","message":"Plugin file changed: sticker.js","service":"vryzen-bot","timestamp":"2025-05-25 06:12:55"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:12:55"}
+{"level":"info","message":"New plugin file detected: antilink.js","service":"vryzen-bot","timestamp":"2025-05-25 06:13:12"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:12"}
+{"command":"help","executionTime":103,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:13:37","userId":"918810502592@s.whatsapp.net"}
+{"command":"contact","executionTime":213,"level":"info","message":"Command executed: contact","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:13:44","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: ban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: unban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Loaded 60 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:13:49"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: ban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: unban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Loaded 60 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:15:21"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: ban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: unban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded 60 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Plugin file changed: hug.js","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:13"}
+{"level":"info","message":"Plugin file changed: praise.js","service":"vryzen-bot","timestamp":"2025-05-25 06:16:28"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:28"}
+{"level":"info","message":"Plugin file changed: tag.js","service":"vryzen-bot","timestamp":"2025-05-25 06:16:39"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:16:39"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-25 06:16:53"}
+{"command":"test","executionTime":468,"level":"info","message":"Command executed: test","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:17:27","userId":"918810502592@s.whatsapp.net"}
+{"command":"weather","executionTime":100,"level":"info","message":"Command executed: weather","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:17:55","userId":"918810502592@s.whatsapp.net"}
+{"command":"weather","executionTime":217,"level":"info","message":"Command executed: weather","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:18:01","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: weather.js","service":"vryzen-bot","timestamp":"2025-05-25 06:20:54"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:20:54"}
+{"command":"test","executionTime":216,"level":"info","message":"Command executed: test","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:21:01","userId":"918810502592@s.whatsapp.net"}
+{"command":"test","executionTime":331,"level":"info","message":"Command executed: test","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:21:13","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"New plugin file detected: qr.js","service":"vryzen-bot","timestamp":"2025-05-25 06:21:17"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:21:17"}
+{"level":"info","message":"New plugin file detected: shorturl.js","service":"vryzen-bot","timestamp":"2025-05-25 06:21:31"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:21:31"}
+{"command":"plugin","executionTime":99,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:22:07","userId":"918810502592@s.whatsapp.net"}
+{"command":"plugin","executionTime":107,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:22:16","userId":"918810502592@s.whatsapp.net"}
+{"code":"ERR_REQUIRE_ESM","level":"error","message":"Short URL command failed: require() of ES Module /home/runner/workspace/node_modules/node-fetch/src/index.js from /home/runner/workspace/plugins/utility/shorturl.js not supported.\nInstead change the require of index.js in /home/runner/workspace/plugins/utility/shorturl.js to a dynamic import() which is available in all CommonJS modules.","service":"vryzen-bot","stack":"Error [ERR_REQUIRE_ESM]: require() of ES Module /home/runner/workspace/node_modules/node-fetch/src/index.js from /home/runner/workspace/plugins/utility/shorturl.js not supported.\nInstead change the require of index.js in /home/runner/workspace/plugins/utility/shorturl.js to a dynamic import() which is available in all CommonJS modules.\n    at Object.execute (/home/runner/workspace/plugins/utility/shorturl.js:27:27)\n    at async MessageHandler.executePlugin (/home/runner/workspace/src/messageHandler.js:164:13)\n    at async MessageHandler.handleCommand (/home/runner/workspace/src/messageHandler.js:110:13)\n    at async MessageHandler.processMessage (/home/runner/workspace/src/messageHandler.js:57:17)\n    at async MessageHandler.handleMessages (/home/runner/workspace/src/messageHandler.js:24:17)","timestamp":"2025-05-25 06:22:43"}
+{"command":"shorturl","executionTime":292,"level":"info","message":"Command executed: shorturl","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:22:43","userId":"918810502592@s.whatsapp.net"}
+{"command":"test","executionTime":212,"level":"info","message":"Command executed: test","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:23:10","userId":"918810502592@s.whatsapp.net"}
+{"code":"ERR_REQUIRE_ESM","level":"error","message":"Short URL command failed: require() of ES Module /home/runner/workspace/node_modules/node-fetch/src/index.js from /home/runner/workspace/plugins/utility/shorturl.js not supported.\nInstead change the require of index.js in /home/runner/workspace/plugins/utility/shorturl.js to a dynamic import() which is available in all CommonJS modules.","service":"vryzen-bot","stack":"Error [ERR_REQUIRE_ESM]: require() of ES Module /home/runner/workspace/node_modules/node-fetch/src/index.js from /home/runner/workspace/plugins/utility/shorturl.js not supported.\nInstead change the require of index.js in /home/runner/workspace/plugins/utility/shorturl.js to a dynamic import() which is available in all CommonJS modules.\n    at Object.execute (/home/runner/workspace/plugins/utility/shorturl.js:27:27)\n    at async MessageHandler.executePlugin (/home/runner/workspace/src/messageHandler.js:164:13)\n    at async MessageHandler.handleCommand (/home/runner/workspace/src/messageHandler.js:110:13)\n    at async MessageHandler.processMessage (/home/runner/workspace/src/messageHandler.js:57:17)\n    at async MessageHandler.handleMessages (/home/runner/workspace/src/messageHandler.js:24:17)","timestamp":"2025-05-25 06:23:26"}
+{"command":"shorturl","executionTime":207,"level":"info","message":"Command executed: shorturl","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:23:26","userId":"918810502592@s.whatsapp.net"}
+{"code":"ERR_REQUIRE_ESM","level":"error","message":"Weather command failed: require() of ES Module /home/runner/workspace/node_modules/node-fetch/src/index.js from /home/runner/workspace/plugins/utility/weather.js not supported.\nInstead change the require of index.js in /home/runner/workspace/plugins/utility/weather.js to a dynamic import() which is available in all CommonJS modules.","service":"vryzen-bot","stack":"Error [ERR_REQUIRE_ESM]: require() of ES Module /home/runner/workspace/node_modules/node-fetch/src/index.js from /home/runner/workspace/plugins/utility/weather.js not supported.\nInstead change the require of index.js in /home/runner/workspace/plugins/utility/weather.js to a dynamic import() which is available in all CommonJS modules.\n    at Object.execute (/home/runner/workspace/plugins/utility/weather.js:26:27)\n    at async MessageHandler.executePlugin (/home/runner/workspace/src/messageHandler.js:164:13)\n    at async MessageHandler.handleCommand (/home/runner/workspace/src/messageHandler.js:110:13)\n    at async MessageHandler.processMessage (/home/runner/workspace/src/messageHandler.js:57:17)\n    at async MessageHandler.handleMessages (/home/runner/workspace/src/messageHandler.js:24:17)","timestamp":"2025-05-25 06:23:37"}
+{"command":"weather","executionTime":216,"level":"info","message":"Command executed: weather","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:23:37","userId":"918810502592@s.whatsapp.net"}
+{"command":"antilink","executionTime":104,"level":"info","message":"Command executed: antilink","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:23:52","userId":"918810502592@s.whatsapp.net"}
+{"action":"promote","level":"info","message":"Group update in 120363398619601959@g.us:","participants":["918920659106@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-25 06:24:20"}
+{"command":"getdesc","executionTime":192,"level":"info","message":"Command executed: getdesc","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:24:38","userId":"918810502592@s.whatsapp.net"}
+{"command":"setdesc","executionTime":185,"level":"info","message":"Command executed: setdesc","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:24:44","userId":"918810502592@s.whatsapp.net"}
+{"command":"reload","executionTime":107,"level":"info","message":"Command executed: reload","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:25:32","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: kick.js","service":"vryzen-bot","timestamp":"2025-05-25 06:25:43"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:43"}
+{"level":"info","message":"Plugin file watcher stopped","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: ban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: unban (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"level":"info","message":"Loaded 62 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:25:44"}
+{"command":"reload","executionTime":295,"level":"info","message":"Command executed: reload","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:25:44","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: kick.js","service":"vryzen-bot","timestamp":"2025-05-25 06:26:08"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:26:08"}
+{"level":"info","message":"Plugin file changed: kick.js","service":"vryzen-bot","timestamp":"2025-05-25 06:26:14"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:26:14"}
+{"level":"info","message":"Plugin file changed: promote.js","service":"vryzen-bot","timestamp":"2025-05-25 06:26:28"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:26:28"}
+{"level":"info","message":"Plugin file changed: demote.js","service":"vryzen-bot","timestamp":"2025-05-25 06:26:31"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:26:31"}
+{"command":"plugin","executionTime":95,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:26:55","userId":"918810502592@s.whatsapp.net"}
+{"action":"DISABLE","level":"info","message":"Plugin DISABLE: ban","pluginName":"ban","service":"vryzen-bot","timestamp":"2025-05-25 06:27:06","userId":"918810502592@s.whatsapp.net"}
+{"command":"plugin","executionTime":99,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:27:06","userId":"918810502592@s.whatsapp.net"}
+{"command":"help","executionTime":103,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:27:23","userId":"918810502592@s.whatsapp.net"}
+{"action":"DISABLE","level":"info","message":"Plugin DISABLE: unban","pluginName":"unban","service":"vryzen-bot","timestamp":"2025-05-25 06:27:44","userId":"918810502592@s.whatsapp.net"}
+{"command":"plugin","executionTime":177,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:27:44","userId":"918810502592@s.whatsapp.net"}
+{"command":"help","executionTime":97,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:27:49","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: rplugin (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Loaded 61 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:37:42"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-25 06:37:44"}
+{"command":"plugin","executionTime":606,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:38:34","userId":"918810502592@s.whatsapp.net"}
+{"command":"help","executionTime":332,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:38:39","userId":"918810502592@s.whatsapp.net"}
+{"command":"report","executionTime":256,"level":"info","message":"Command executed: report","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:38:52","userId":"918810502592@s.whatsapp.net"}
+{"command":"report","executionTime":888,"level":"info","message":"Command executed: report","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:39:06","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-25 06:41:37"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:41:37"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-25 06:41:40"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:41:40"}
+{"command":"report","executionTime":628,"level":"info","message":"Command executed: report","service":"vryzen-bot","success":true,"timestamp":"2025-05-25 06:44:00","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: rplugin (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Loaded 61 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
