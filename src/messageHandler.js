@@ -64,7 +64,6 @@ class MessageHandler {
 
     extractMessageContent(message) {
         const msg = message.message;
-        
         if (msg.conversation) {
             return msg.conversation;
         } else if (msg.extendedTextMessage?.text) {
@@ -76,7 +75,6 @@ class MessageHandler {
         } else if (msg.documentMessage?.caption) {
             return msg.documentMessage.caption;
         }
-        
         return null;
     }
 

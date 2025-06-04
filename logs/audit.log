@@ -3,3 +3,5 @@
 {"action":"PLUGIN_DISABLE","level":"info","message":"AUDIT","pluginName":"ban","timestamp":"2025-05-25T06:27:06.458Z","userId":"918810502592@s.whatsapp.net"}
 {"action":"PLUGIN_DISABLE","level":"info","message":"AUDIT","pluginName":"unban","timestamp":"2025-05-25T06:27:44.185Z","userId":"918810502592@s.whatsapp.net"}
 {"action":"USER_REPORTED","adminCount":2,"groupId":"120363398619601959@g.us","groupName":"Vryzen","level":"info","message":"AUDIT","reason":"abusing his power","reportedUser":"918920659106@s.whatsapp.net","timestamp":"2025-05-25T06:39:06.383Z","userId":"918810502592@s.whatsapp.net"}
+{"action":"OWNER_ADD","level":"info","message":"AUDIT","phone":"+918920659106","targetUserId":"918920659106@s.whatsapp.net","timestamp":"2025-05-26T04:22:02.801Z","userId":"918810502592@s.whatsapp.net"}
+{"action":"OWNER_ADDED","level":"info","message":"AUDIT","method":"addowner_command","targetPhone":"+918920659106","targetUser":"918920659106@s.whatsapp.net","timestamp":"2025-05-26T04:22:03.105Z","userId":"918810502592@s.whatsapp.net"}

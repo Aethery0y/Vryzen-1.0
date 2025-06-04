@@ -536,3 +536,404 @@
 {"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
 {"level":"info","message":"Loaded 61 plugins","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
 {"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-25 06:46:46"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: rplugin (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Loaded 61 plugins","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-26 09:46:17"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-26 09:47:35"}
+{"command":"help","executionTime":1362,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:47:41","userId":"918810502592@s.whatsapp.net"}
+{"command":"addplugin","executionTime":282,"level":"info","message":"Command executed: addplugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:48:16","userId":"918810502592@s.whatsapp.net"}
+{"command":"help","executionTime":279,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:48:21","userId":"918810502592@s.whatsapp.net"}
+{"command":"test","executionTime":620,"level":"info","message":"Command executed: test","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:48:30","userId":"918810502592@s.whatsapp.net"}
+{"command":"getsubject","executionTime":772,"level":"info","message":"Command executed: getsubject","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:48:41","userId":"918810502592@s.whatsapp.net"}
+{"command":"rplugin","executionTime":269,"level":"info","message":"Command executed: rplugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:49:43","userId":"918810502592@s.whatsapp.net"}
+{"command":"plugin","executionTime":389,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:51:25","userId":"918810502592@s.whatsapp.net"}
+{"command":"help","executionTime":278,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:51:30","userId":"918810502592@s.whatsapp.net"}
+{"command":"help","executionTime":263,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:51:32","userId":"918810502592@s.whatsapp.net"}
+{"command":"listplugins","executionTime":1610,"level":"info","message":"Command executed: listplugins","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:51:42","userId":"918810502592@s.whatsapp.net"}
+{"command":"addowner","executionTime":299,"level":"info","message":"Command executed: addowner","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:51:57","userId":"918810502592@s.whatsapp.net"}
+{"action":"ADD","actionBy":"918810502592@s.whatsapp.net","level":"info","message":"Owner ADD: 918920659106@s.whatsapp.net","phone":"+918920659106","service":"vryzen-bot","targetUserId":"918920659106@s.whatsapp.net","timestamp":"2025-05-26 09:52:02"}
+{"command":"addowner","executionTime":306,"level":"info","message":"Command executed: addowner","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:52:03","userId":"918810502592@s.whatsapp.net"}
+{"command":"whois","executionTime":927,"level":"info","message":"Command executed: whois","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 09:52:13","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: rplugin (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:23"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Failed to load plugin spotify-playlist.js: Cannot find module 'spotify-web-api-node'\nRequire stack:\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js","requireStack":["C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js"],"service":"vryzen-bot","stack":"Error: Cannot find module 'spotify-web-api-node'\nRequire stack:\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js\n    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)\n    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)\n    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)\n    at Function._load (node:internal/modules/cjs/loader:1211:37)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)\n    at require (node:internal/modules/helpers:135:16)\n    at Object.<anonymous> (C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js:1:20)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)","timestamp":"2025-05-26 15:35:23"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Loaded 61 plugins","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-26 15:35:24"}
+{"action":"remove","level":"info","message":"Group update in 120363399920225122@g.us:","participants":["918810502592@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-26 15:35:26"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-26 15:35:26"}
+{"action":"remove","level":"info","message":"Group update in 120363399920225122@g.us:","participants":["918920659106@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-26 15:35:29"}
+{"action":"remove","level":"info","message":"Group update in 120363400789353843@g.us:","participants":["923453867999@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-26 15:35:36"}
+{"command":"help","executionTime":711,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:35:56","userId":"918810502592@s.whatsapp.net"}
+{"command":"ping","executionTime":7736,"level":"info","message":"Command executed: ping","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:36:04","userId":"918795175788@s.whatsapp.net"}
+{"command":"help","executionTime":409,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:36:04","userId":"918810502592@s.whatsapp.net"}
+{"command":"warn","executionTime":363,"level":"info","message":"Command executed: warn","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:36:04","userId":"918810502592@s.whatsapp.net"}
+{"command":"getdesc","executionTime":949,"level":"info","message":"Command executed: getdesc","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:36:05","userId":"918810502592@s.whatsapp.net"}
+{"command":"lockgroup","executionTime":743,"level":"info","message":"Command executed: lockgroup","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:36:06","userId":"918810502592@s.whatsapp.net"}
+{"command":"ping","executionTime":1186,"level":"info","message":"Command executed: ping","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:36:07","userId":"918795175788@s.whatsapp.net"}
+{"command":"help","executionTime":294,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-26 15:37:39","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: rplugin (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Failed to load plugin spotify-playlist.js: Cannot find module 'spotify-web-api-node'\nRequire stack:\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js","requireStack":["C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js"],"service":"vryzen-bot","stack":"Error: Cannot find module 'spotify-web-api-node'\nRequire stack:\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js\n    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)\n    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)\n    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)\n    at Function._load (node:internal/modules/cjs/loader:1211:37)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)\n    at require (node:internal/modules/helpers:135:16)\n    at Object.<anonymous> (C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js:1:20)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Loaded 61 plugins","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-28 11:07:26"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-28 11:08:03"}
+{"command":"help","executionTime":1037,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-28 11:08:14","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:09:34"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:09:34"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:09:48"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:09:48"}
+{"command":"addplugin","executionTime":265,"level":"info","message":"Command executed: addplugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-28 11:10:21","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:11:15"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:11:15"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:11:29"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:11:29"}
+{"command":"addplugin","executionTime":429,"level":"info","message":"Command executed: addplugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-28 11:11:56","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:12:51"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:12:51"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:13:13"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:13:13"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:13:16"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:13:16"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:13:17"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:13:17"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:13:17"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:13:17"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:13:18"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:13:18"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:14:37"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:14:37"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:15:19"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:15:19"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:15:23"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:15:23"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:15:23"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:15:23"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:15:23"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:15:23"}
+{"doc":null,"level":"info","message":"addplugin debug","msg":{"extendedTextMessage":{"contextInfo":{"expiration":0,"participant":"918810502592@s.whatsapp.net","quotedMessage":{"documentWithCaptionMessage":{"message":{"documentMessage":{"caption":".addplugin","contextInfo":{"expiration":0},"directPath":"/v/t62.7119-24/19087316_978070674540087_806074082380980490_n.enc?ccb=11-4&oh=01_Q5Aa1gGVkWS_mTQPvjq6OR-8FHIx7OzTRjiGLysPvN5FUd1Z1Q&oe=685E136E&_nc_sid=5e03e0","fileEncSha256":"WSPiola9C024c5S7w50Y/qVFM/8RuHereaTskQET8Os=","fileLength":"1485","fileName":"add.js","fileSha256":"Xr+kv6xbXOTEs4Wytl206r14kG0hUHScTO+tCNozl7g=","mediaKey":"yhjbOARNV1rbI9mbscHdtFENNJz5ggdMH46/bVh+WxU=","mediaKeyTimestamp":"1748411486","mimetype":"application/javascript","pageCount":0,"title":"add.js","url":"https://mmg.whatsapp.net/v/t62.7119-24/19087316_978070674540087_806074082380980490_n.enc?ccb=11-4&oh=01_Q5Aa1gGVkWS_mTQPvjq6OR-8FHIx7OzTRjiGLysPvN5FUd1Z1Q&oe=685E136E&_nc_sid=5e03e0&mms3=true"}}}},"stanzaId":"3F22F963CEDFAD09831B"},"text":".addplugin"}},"service":"vryzen-bot","timestamp":"2025-05-28 11:21:45"}
+{"command":"addplugin","executionTime":1442,"level":"info","message":"Command executed: addplugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-28 11:21:46","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:23:15"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:23:15"}
+{"action":"add","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923368138534@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:24:49"}
+{"action":"add","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923336309270@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:24:51"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:24:53"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:24:53"}
+{"action":"add","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923165138512@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:24:54"}
+{"action":"add","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923444421704@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:24:57"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:25:00"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:25:00"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:28:24"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:28:24"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:30:40"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:30:40"}
+{"action":"remove","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["97472043056@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:41:41"}
+{"action":"add","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923017816300@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:42:23"}
+{"action":"promote","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923079493230@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:42:23"}
+{"action":"add","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923324253808@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:42:25"}
+{"action":"remove","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923254030627@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:42:26"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:44:22"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:44:22"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"level":"info","message":"Plugin file changed: addplugin.js","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-28 11:44:26"}
+{"action":"add","level":"info","message":"Group update in 120363399246325140@g.us:","participants":["923257331675@s.whatsapp.net"],"service":"vryzen-bot","timestamp":"2025-05-28 11:46:20"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Database initialized successfully","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loading plugins...","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: announce (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: antilink (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: delwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: demote (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: getdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: getgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: getsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: ghostkick (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: groupinfo (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: kick (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: listadmins (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: lockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: mute (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: promote (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: purge (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: restrict (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: setdesc (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: setgroupicon (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: setsubject (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: setwarnlimit (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: timeout (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: unlockgroup (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: unmute (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: unrestrict (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: unwarn (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: warn (admin)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: addowner (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: addplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: listplugins (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: plugin (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: reload (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: removeowner (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: removeplugin (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: test (owner)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: avatar (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: checkwarn (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: contact (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: gift (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: help (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: hug (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: mystats (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: ping (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: praise (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: remindme (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: report (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: rplugin (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: stats (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: tag (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: vote (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: whois (user)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: compress (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: resize (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Failed to load plugin spotify-playlist.js: Cannot find module 'spotify-web-api-node'\nRequire stack:\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js","requireStack":["C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js","C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js"],"service":"vryzen-bot","stack":"Error: Cannot find module 'spotify-web-api-node'\nRequire stack:\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\pluginManager.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\src\\bot.js\n- C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\index.js\n    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)\n    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)\n    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)\n    at Function._load (node:internal/modules/cjs/loader:1211:37)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n    at Module.require (node:internal/modules/cjs/loader:1487:12)\n    at require (node:internal/modules/helpers:135:16)\n    at Object.<anonymous> (C:\\DevFolder\\WhatsApp\\Vryzen-1.0\\plugins\\media\\spotify-playlist.js:1:20)\n    at Module._compile (node:internal/modules/cjs/loader:1730:14)","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: sticker (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: toimg (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: yt (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"error","message":"Invalid plugin structure: ytchannelinfo","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: ytmp3 (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: ytmp4 (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:32"}
+{"level":"info","message":"Loaded plugin: ytplaylistdownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Loaded plugin: ytsongdownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Loaded plugin: qr (utility)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Loaded plugin: shorturl (utility)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Loaded plugin: translate (utility)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Loaded plugin: weather (utility)","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Plugin file watcher started","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Loaded 64 plugins","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Plugins loaded successfully","service":"vryzen-bot","timestamp":"2025-05-30 15:04:34"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-30 15:05:01"}
+{"level":"info","message":"Plugin file removed: ytmp4.js","service":"vryzen-bot","timestamp":"2025-05-30 15:06:17"}
+{"level":"info","message":"Plugin file removed: ytmp3.js","service":"vryzen-bot","timestamp":"2025-05-30 15:06:19"}
+{"level":"info","message":"Plugin file removed: yt.js","service":"vryzen-bot","timestamp":"2025-05-30 15:06:23"}
+{"level":"info","message":"Plugin file removed: ytplaylistdownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:09:51"}
+{"level":"info","message":"New plugin file detected: ytplaylistdownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:09:52"}
+{"level":"info","message":"Loaded plugin: ytplaylistdownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:09:52"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:10:06"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:10:06"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:10:06"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:10:06"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:10:06"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:10:06"}
+{"command":"ytsong","executionTime":1303,"level":"error","message":"Command failed: ytsong","service":"vryzen-bot","success":false,"timestamp":"2025-05-30 15:10:16","userId":"918810502592@s.whatsapp.net"}
+{"command":"plugin","executionTime":422,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-30 15:10:27","userId":"918810502592@s.whatsapp.net"}
+{"command":"plugin","executionTime":377,"level":"info","message":"Command executed: plugin","service":"vryzen-bot","success":true,"timestamp":"2025-05-30 15:10:46","userId":"918810502592@s.whatsapp.net"}
+{"command":"ytsong","executionTime":293,"level":"error","message":"Command failed: ytsong","service":"vryzen-bot","success":false,"timestamp":"2025-05-30 15:10:56","userId":"918810502592@s.whatsapp.net"}
+{"level":"info","message":"Bot connected and ready","service":"vryzen-bot","timestamp":"2025-05-30 15:17:28"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:18:54"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:18:54"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:18:54"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:18:54"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:18:54"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:18:54"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:18:55"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:18:55"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:18:55"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:18:55"}
+{"level":"info","message":"Plugin file changed: ytaudiodownloader.js","service":"vryzen-bot","timestamp":"2025-05-30 15:18:55"}
+{"level":"info","message":"Loaded plugin: ytaudiodownloader (media)","service":"vryzen-bot","timestamp":"2025-05-30 15:18:55"}
+{"command":"ytsong","executionTime":4412,"level":"error","message":"Command failed: ytsong","service":"vryzen-bot","success":false,"timestamp":"2025-05-30 15:19:14","userId":"918810502592@s.whatsapp.net"}
+{"command":"help","executionTime":292,"level":"info","message":"Command executed: help","service":"vryzen-bot","success":true,"timestamp":"2025-05-30 15:23:39","userId":"918810502592@s.whatsapp.net"}
+{"command":"ytplaylistdownloader","executionTime":354,"level":"info","message":"Command executed: ytplaylistdownloader","service":"vryzen-bot","success":true,"timestamp":"2025-05-30 15:24:00","userId":"918810502592@s.whatsapp.net"}

@@ -1,0 +1,104 @@
+🚀 Vryzen Bot Plugin Creation Guide
+📋 Quick Start
+Creating a new command for the Vryzen bot is super easy! Just follow this simple template:
+
+module.exports = {
+    name: 'yourcommand',
+    description: 'What your command does',
+    category: 'user',
+    permissions: ['user'],
+    usage: '.yourcommand <arguments>',
+    aliases: ['alias1', 'alias2'],
+    cooldown: 1000,
+
+    async execute(ctx) {
+        const { bot, message, args, sender, chatId, isGroup, reply } = ctx;
+
+        try {
+            // Your command logic here
+            await reply('Your response message here!');
+
+        } catch (error) {
+            bot.logger.error('Command failed:', error);
+            return reply('❌ Something went wrong. Please try again.');
+        }
+    }
+};
+
+🎯 Step-by-Step Instructions
+1. Copy the template above
+2. Customize these fields:
+   - name: Your command name (no spaces, lowercase)
+   - description: What the command does
+   - category: Choose from user, admin, media, utility, owner, moderation
+   - permissions: ['user'], ['admin'], ['owner'], or ['real_owner']
+   - usage: How to use the command (include examples)
+   - aliases: Alternative names for the command
+   - cooldown: Delay between uses in milliseconds
+3. Write your logic inside the execute function
+4. Save as yourcommand.js
+5. Use .rplugin command to submit your plugin
+
+💡 Available Tools in ctx
+- message: The full WhatsApp message object
+- reply(message, options): Send a response with optional mentions/media
+- args: Command arguments array
+- sender: User's WhatsApp ID
+- chatId: Group or chat ID  
+- isGroup: True if in a group chat
+- bot.utils: Utility functions
+- bot.logger: Logging functions
+- getQuotedMessage(): Get message being replied to
+- downloadMedia(): Download media from message
+- extractMentions(): Get mentioned users
+
+🎨 Example Commands
+1. Reply with Media:
+```javascript
+const media = await downloadMedia();
+await reply('Here is your processed image!', { media });
+```
+
+2. Handle Quoted Messages:
+```javascript
+const quoted = await getQuotedMessage();
+if (!quoted) return reply('Please reply to a message!');
+```
+
+3. Group Commands:
+```javascript
+if (!isGroup) return reply('This command only works in groups!');
+```
+
+📁 Plugin Categories
+- user: Commands everyone can use
+- admin: Group admin commands only
+- media: Image/video processing
+- utility: Tools and utilities 
+- owner: Bot owner commands only
+- moderation: Group moderation features
+
+✅ Best Practices
+- Always validate user inputs
+- Handle errors gracefully with try-catch
+- Add clear usage examples
+- Use bot.logger for error logging
+- Follow existing code patterns
+- Test thoroughly before submitting
+- Add detailed command descriptions
+- Use consistent error messages
+
+🛡️ Security Guidelines
+- Never use eval() or Function()
+- Avoid file system operations
+- Don't access child_process
+- Validate all user inputs
+- Follow security patterns
+
+🚀 Submit Your Plugin
+Use the .rplugin command to submit your plugin:
+1. Upload your .js file
+2. Reply to it with: .rplugin <description>
+3. The bot will validate and process your submission
+
+Need help? Use .help command or contact the bot owner!
